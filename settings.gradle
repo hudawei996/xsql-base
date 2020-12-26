@@ -1,0 +1,3 @@
+include ':app'
+include ':xsql-base'
+rootProject.name = "xsql-base"
