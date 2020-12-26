@@ -1,3 +1,3 @@
 include ':app'
-include ':xsql-base'
+include ':annotation'
 rootProject.name = "xsql-base"
